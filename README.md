@@ -38,7 +38,7 @@ To install dependencies, use:
 ## Installation
 
 - **Clone the Repo:**
-    git clone https://github.com/yourusername/micro-ecosystem-simulation.git
+    git clone https://github.com/__.git
 - **Install Required Dependencies:**
     pip install -r requirements.txt
 
